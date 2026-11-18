@@ -39,6 +39,5 @@ Skenario debugging: ketika pengguna memasukkan jumlah barang berupa teks, konver
 File `tests/test_transaksi.py` menguji penambahan/pencarian, penolakan ID duplikat, filter tanggal, rekap pendapatan, dan penghapusan. Jalankan `python -m unittest discover -s tests -v`.
 
 ## Referensi dan bantuan
-- Python Standard Library Documentation: https://docs.python.org/3/library/
 - Library: `csv`, `json`, `pathlib`, `datetime`, `unittest` (seluruhnya standard library).
 - Bantuan AI: ChatGPT (OpenAI), digunakan untuk membantu penyusunan rancangan dan contoh kode.
