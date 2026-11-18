@@ -72,8 +72,3 @@ Jalankan:
 ```bash
 python -m unittest discover -s tests -v
 ```
-
-## Referensi dan bantuan
-- Python documentation: https://docs.python.org/3/library/
-- Modul yang digunakan: `csv`, `json`, `pathlib`, `datetime`, `unittest` (standard library).
-- Bantuan AI: ChatGPT (OpenAI), digunakan untuk membantu menyusun rancangan dan contoh implementasi.
