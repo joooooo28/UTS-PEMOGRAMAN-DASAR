@@ -1,0 +1,9 @@
+id,tanggal,pelanggan,produk,jumlah,harga
+TR001,2026-11-01,Andi,Keyboard,2,150000
+TR002,2026-11-01,Budi,Mouse,3,75000
+TR003,2026-11-02,Citra,Monitor,1,1250000
+TR004,2026-11-03,Dewi,Keyboard,1,150000
+TR005,2026-11-03,Eko,Flashdisk,4,50000
+TR006,2026-10-10,Jonathan,Lilin Portable,250,1000
+TR007,2026-11-11,Aldi,Drum,1,2000000
+TR008,2026-12-12,Dwi,Gitar akustik,1,250000000

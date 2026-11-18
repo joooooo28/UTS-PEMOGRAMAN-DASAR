@@ -1,0 +1,1 @@
+"""Package pengelolaan transaksi penjualan."""

@@ -1,0 +1,14 @@
+{
+    "total_transaksi": 8,
+    "total_produk_terjual": 263,
+    "total_pendapatan": 254375000,
+    "penjualan_per_produk": {
+        "Keyboard": 3,
+        "Mouse": 3,
+        "Monitor": 1,
+        "Flashdisk": 4,
+        "Lilin Portable": 250,
+        "Drum": 1,
+        "Gitar akustik": 1
+    }
+}
